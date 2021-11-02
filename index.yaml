@@ -3,7 +3,18 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-02T16:21:06.34172-04:00"
+    created: "2021-11-02T16:26:24.625072-04:00"
+    description: A Helm chart for Kubernetes
+    digest: cde8699f26c46346a6faf3e77aa8ca990e8284c440e63d998bb7a8bcc2d437f3
+    icon: https://firefhtr.github.io/helm-chart/SUSE_Chameleon.png
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://firefhtr.github.io/helm-chart/helm-chart-test-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-02T16:26:24.623085-04:00"
     description: A Helm chart for Kubernetes
     digest: 4195eb8bcd4cbbbf6b52547bf5a8e9d044fc00eefd04d7beb07ebfc32913e669
     icon: https://firefhtr.github.io/helm-chart/SUSE_Chameleon.png
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://firefhtr.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-02T16:21:06.340841-04:00"
+generated: "2021-11-02T16:26:24.62188-04:00"
